@@ -9,11 +9,11 @@ This repository contains a makefile inside of `src/`. On your machine, type
 ```
 $ make
 ```
-to compile the program.
+within the `src/` directory to compile the program.
 
 ## Running
 
-To run this program (after compiling), type 
+To run this program (after compiling), type (within `src/`)
 
 ```
 $ ./a.out [options] ... [file] ...
